@@ -1,0 +1,6 @@
+Name=str(input("Enter student name:"))
+a=int(input("Enter marks of subject1:"))
+b=int(input("Enter marks of sunject2:"))
+c=int(input("Enter marks of subject3:"))
+print("Student Name:",Name)
+print("Total Marks",a+b+c)
