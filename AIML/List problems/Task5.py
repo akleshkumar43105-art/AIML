@@ -1,3 +1,4 @@
+# remove duplicate
 def duplicate_elements(a):
     new_list = []
     for i in range(len(a)):
